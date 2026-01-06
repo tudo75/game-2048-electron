@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "electron": "^10.1.5",
-    "electron-builder": "^22.9.1",
-    "electron-builder-squirrel-windows": "^22.9.1"
+    "electron-builder": "^26.0.12",
+    "electron-builder-squirrel-windows": "^26.0.12"
   }
 }
